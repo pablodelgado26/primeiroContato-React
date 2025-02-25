@@ -3,7 +3,7 @@ import styles from "./header.module.css"
 const Header = () => {
     return (
         <header>
-            <h1 className={styles.titulo}>Header componentizada</h1>
+            <h1 className={styles.titulo}>Header componentizada - Modificada</h1>
         </header>
     );
 };

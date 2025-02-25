@@ -10,6 +10,7 @@ export default function Sobre() {
             <div className={styles.container}>
                 <h1>Página {nomePagina} </h1>
                 <Link href={"/"}>Ir para a página Home</Link>
+                <Link href={"/nossa"}>Ir para a página Nossa</Link>
             </div>
         </div>
     );

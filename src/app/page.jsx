@@ -14,6 +14,9 @@ export default function Home() {
         <Link href={"/sobre"}>
           Ir para a página Sobre
         </Link>
+        <Link href={"/nossa"}>
+          Ir para a página Nossa
+        </Link>
       </div>
     </div>
   );
