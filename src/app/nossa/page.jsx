@@ -1,3 +1,4 @@
+import Card from "../components/Card";
 import Header from "../components/Header";
 import styles from "./nossa.module.css";
 
@@ -8,6 +9,7 @@ export default function nossa() {
 
         <div className={styles.container}>
             <h1>Página Nossa</h1>
+            <Card />
             </div>
     </div>
   );
